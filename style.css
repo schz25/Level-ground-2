@@ -1,0 +1,86 @@
+.nav{
+    background: rgba(100, 117, 140, 1);
+    float: left;
+    width: 100%;
+    color: white;
+    font-family: "Roboto condensed", sans-serif;
+    font-weight: 700;
+}
+nav li {
+    float: left;
+    width: 25%;
+    list-style: none;
+}
+.nav a {
+    color: white;
+}
+.grit {
+    background: rgba(100, 117, 140, 1);
+    padding: 10%;
+    text-align: center;
+    color: white;
+    font-family: "Roboto condensed", sans-serif;
+    font-weight: 700;
+    font-size: 35px;
+}
+.grit > a { 
+    color: white;
+}
+.grit > p{
+    font-weight: 400;
+}
+.why{
+    height: 300px;
+    text-align: center;
+    padding: 5%;
+    font-family: "Roboto condensed", sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+}
+.why > p{
+   font-weight: 400;
+   font-size: 30px;
+}
+.main {
+    height: 450px;
+    background: rgba(218, 223, 227, 1);
+    font-family: "Roboto condensed", sans-serif;
+    color: white;
+}
+.gym {
+    float: left;
+    width: 50%;
+    height: 250px;
+    margin-top: 100px;
+    background: rgb(231, 71, 84, .5);
+    text-align: center;
+}
+.visit {
+    float: right;
+    width: 45%;
+    height: 250px;
+    margin-top: 100px;
+    background: rgb(75, 136, 222, .5);
+    text-align: center;
+}
+.volunteer{
+    float: left;
+    width: 100%;
+    font-family: "Roboto condensed", sans-serif;
+    height: 300px;
+    padding: 100px 0 0 0;
+    clear: both;
+    text-align: center;
+}
+footer{ 
+    padding: 5%;
+    clear: both;
+    font-family: "Roboto condensed", sans-serif;
+    background: rgba(21,30,43,1)
+}
+.links {
+    color: white;
+}
+.links > a {
+    color: white;
+}
